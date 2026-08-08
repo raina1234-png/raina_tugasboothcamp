@@ -1,4 +1,4 @@
-# Bio-Link Skincare & Fashion
+# Bio-Link Skincare & Fashion ( Raina Qinthara Rahmani_2430511030_Kelompok 2)
 
 > Website Bio-Link untuk menampilkan profil, rekomendasi skincare, makeup, fashion, serta berbagai tautan dalam satu halaman.
 

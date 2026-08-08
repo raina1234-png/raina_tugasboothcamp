@@ -66,8 +66,8 @@ Contoh tampilan:
 ```text
 bio-link/
 ├── app/
-├── bootstrap/
-├── config/
+├── bootstrap/<img width="1313" height="601" alt="Screenshot 2026-08-08 034352" src="https://github.com/user-attachments/assets/71396235-b925-41d9-8297-ee3a69b4edbe" /><img width="1313" height="601" alt="Screenshot 2026-08-08 034352" src="https://github.com/user-attachments/assets/49a0029c-335b-4524-bfc1-927c46e619b8" />
+
 ├── database/
 │   ├── migrations/
 │   └── seeders/
@@ -86,3 +86,5 @@ bio-link/
 ├── artisan
 ├── composer.json
 └── README.md
+<img width="1266" height="597" alt="Screenshot 2026-08-08 033952" src="https://github.com/user-attachments/assets/ae6f066a-2599-4abb-b305-0008ff827ad9" />
+<img width="1313" height="601" alt="Screenshot 2026-08-08 034352" src="https://github.com/user-attachments/assets/1b70720e-87b5-4c63-9039-1cc4e0ef7cae" />
